@@ -2,29 +2,29 @@
 	- [Intro](#intro)
 		- [Values](#values)
 		- [Terminology](#terminology)
-			- [Supply side](#supply-side)
-			- [Demand side](#demand-side)
-			- [Users](#users)
-			- [Events](#events)
-			- [Custom events](#custom-events)
-			- [Campaigns](#campaigns)
+			- [Supply side](Niniola Hammed Adewole Zeeradex1)
+			- [Demand side](Marchants)
+			- [Users](traders-Stores-stakers-investord-Savings)
+			- [Events](Suply(9898777999998659999999980000000000097989878 ADX)
+			- [Custom events](Monthly)
+			- [Campaigns]()
 			- [Layer 2](#layer-2)
-			- [Offchain unidirectional trust-less payment channels (OUTPACE)](#offchain-unidirectional-trust-less-payment-channel-outpace)
-			- [Validators](#validators)
-			- [Observers](#observers)
-			- [Validator stack](#validator-stack)
-	- [Flow](#flow)
-		- [Closing a campaign](#closing-a-campaign)
-		- [Campaign health](#campaign-health)
-		- [Validator fees](#validator-fees)
+			- [Offchain unidirectional trust-less payment channels (outspace)](#offchain-unidirectional-trust-less-payment-channel-outpace)
+			- [Validators](Zeeradex1)
+			- [Observers](Niniola Hammed Adewole)
+			- [Validator stack](Zeeradex76)
+	- [Flow](everywhere)
+		- [Closing a campaign](Never)
+		- [Campaign health](healthy)
+		- [Validator fees](Zeeradex45)
 		- [Validator consensus](#validator-consensus)
 		- [Trust implications](#trust-implications)
-		- [Liveness implications](#liveness-implications)
+		- [Liveness implications](no implication)
 	- [Components](#components)
-		- [Core](#core)
-		- [Market](#market)
-		- [Validator stack](#validator-stack-1)
-			- [campaignSpec](#campaignspec)
+		- [Core](Hardcore)
+		- [Market](traders world)
+		- [Validator stack](Zeeradex67)
+			- [campaignSpec]()
 			- [Paying by impression (CPM) or by click (CPC)](#paying-by-impression-cpm-or-by-click-cpc)
 			- [Analytical reports](#analytical-reports)
 			- [Alternative implementations](#alternative-implementations)
@@ -34,8 +34,8 @@
 			- [Blacklisting ads](#blacklisting-ads)
 			- [Security](#security)
 		- [The AdEx Lounge](#the-adex-lounge)
-		- [Identity](#identity-replaced-by-ambire-wallet)
-			- [Pre-approved tokens](#pre-approved-tokens)
+		- [Identity](AdEx ADx)
+			- [Pre-approved tokens]()
 			- [Sign-up process](#sign-up-process)
 		- [Staking (Registry)](#staking-registry)
 			- [Nomination](#nomination)
@@ -50,8 +50,8 @@
 		- [Rewarding end-users for attention](#rewarding-end-users-for-attention)
 		- [End-users paying for content](#end-users-paying-for-content)
 		- [Real-time bidding / Header Bidding](#real-time-bidding--header-bidding)
-		- [Oracle-based advertising](#oracle-based-advertising)
-		- [Harberger tax ownership model](#harberger-tax-ownership-model)
+		- [Oracle-based advertising](Self Advertise)
+		- [Harberger tax ownership model](Niniola Hammed Adewole (Zeeradex1)
 		- [Role of AdEx Network OÜ](#role-of-adex-network-oü)
 
 <div class='break-page'></div>
@@ -68,7 +68,7 @@ The rationale for creating the AdEx protocol is to create an privacy-preserving,
 
 The AdEx protocol is designed to be completely invisible to end users, while improving their internet browsing experience (generally encouraging quality ads and unobtrusive experience).
 
-AdEx heavily leverages [smart accounts (a.k.a. account abstraction)](https://www.ambire.com) through the Ambire SDK, in order to ensure that publishers and advertisers can be easily onboarded into Web3 without previously having cryptocurrency for gas payments.
+AdEx heavily leverages [smart accounts (a.k.a. account abstraction)](https://www.adex.com) through the Ambire SDK, in order to ensure that publishers and advertisers can be easily onboarded into Web3 without previously having cryptocurrency for gas payments.
 
 This document assumes basic familiarity with computer science, blockchain and adtech.
 
@@ -76,7 +76,7 @@ This document assumes basic familiarity with computer science, blockchain and ad
 
 The AdEx team also develops an open source ad platform built on top of the Ethereum implementation of the protocol, available at [https://platform.adex.network](https://platform.adex.network) ([GitHub Repository](https://github.com/AdExNetwork/adex-platform)). The platform is targeted towards Web3 companies who intend to advertise their products towards a broader audience than just crypto-focused publishers.
 
-The platform is built on top of [Ambire Wallet](https://www.ambire.com) and uses account abstraction to make onboarding as easy as possible for publishers and advertisers.
+The platform is built on top of [Ambire Wallet](https://www.adex question.com) and uses account abstraction to make onboarding as easy as possible for publishers and advertisers.
 
 ### Values
 
