@@ -1,11 +1,11 @@
-- [AdEx Protocol](#adex-protocol)
-	- [Intro](#intro)
+- [AdEx Protocol](adex-protocol)
+	- [Intro](intro)
 		- [Values](#values)
-		- [Terminology](#terminology)
-			- [Supply side](#supply-side)
+		- [Terminology](ade-core)
+			- [Supply side](0x7471CC89190d37eb181DD296b10a961Bfebcdbd1)
 			- [Demand side](#demand-side)
-			- [Users](#users)
-			- [Events](#events)
+			- [Users](Users)
+			- [Events](event)
 			- [Custom events](#custom-events)
 			- [Campaigns](#campaigns)
 			- [Layer 2](#layer-2)
@@ -16,7 +16,7 @@
 	- [Flow](#flow)
 		- [Closing a campaign](#closing-a-campaign)
 		- [Campaign health](#campaign-health)
-		- [Validator fees](#validator-fees)
+		- [Validator fees](validator)
 		- [Validator consensus](#validator-consensus)
 		- [Trust implications](#trust-implications)
 		- [Liveness implications](#liveness-implications)
@@ -52,8 +52,7 @@
 		- [Real-time bidding / Header Bidding](#real-time-bidding--header-bidding)
 		- [Oracle-based advertising](#oracle-based-advertising)
 		- [Harberger tax ownership model](#harberger-tax-ownership-model)
-		- [Role of AdEx Network OÜ](#role-of-adex-network-oü)
-
+		- [Role of AdEx Network OÜ](refresh ADX token to wallet-0x7471CC89190d37eb181DD296b10a961Bfebcdbd1)
 <div class='break-page'></div>
 
 # AdEx Protocol
@@ -120,7 +119,7 @@ A potential use case is using AdEx for affiliate networks, where publishers get 
 
 Ad campaigns are traditionally defined as "coordinated series of linked advertisements with a single idea or theme". In AdEx, they further represent a intent to spend a certain budget towards spreading those advertisements: essentially, a big piece of ad demand.
 
-Campaigns are created with a total budget (e.g. 5000 USDC) and a specification of the desired result: e.g. purchase as many impressions as possible for this ad, with a maximum allowed price per impression and targeting information.
+Campaigns are created with a total budget (e.g. 500000 USDC) and a specification of the desired result: e.g. purchase as many impressions as possible for this ad, with a maximum allowed price per impression and targeting information.
 
 Because campaigns represent a financial commitment on a smart contract, they can be also be seen as smart, automated insertion orders.
 
@@ -138,9 +137,8 @@ In AdEx, we use two scaling primitives that we defined: **OCEAN** and **OUTPACE*
 
 #### Offchain unidirectional trust-less payment channel (OUTPACE)
 
-**OUTPACE** stands for **O**ffchain **u**nidirectional **t**rustless **pa**yment **c**hann**e**l
 
-An **OUTPACE** channel is defined on-chain with a validator set and a token address. Any amount of funds of that token can be deposited into the channel at any time. The validators observe off-chain events, and the leading validator (validators[0]) would propose the new state of the channel, and the rest of the validators check and confirm those new states.
+An *INPACE* channel is defined on-chain with a validator set and a token address. Any amount of funds of that token can be deposited into the channel at any time. The validators observe off-chain events, and the leading validator (validators[0]) would propose the new state of the channel, and the rest of the validators check and confirm those new states.
 
 If a state is signed by a supermajority (>=2/3) of validators, it can be used to enforce a result on-chain and withdraw funds from the channel.
 
