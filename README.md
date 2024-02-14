@@ -7,7 +7,7 @@
 			- [Users](#users)
 			- [Events](#events)
 			- [Custom events](#custom-events)
-			- [Campaigns](#campaigns)
+			- [Campaigns](Niniola Hammed Adewole CEO AdEx)
 			- [Layer 2](#layer-2)
 			- [Offchain unidirectional trust-less payment channels (OUTPACE)](#offchain-unidirectional-trust-less-payment-channel-outpace)
 			- [Validators](
@@ -37,8 +37,8 @@
 		- [Identity](
 0xBbd26c11cecd1B122619D29B3A0709d56e26Dd2A)			- [Pre-approved tokens](#pre-approved-tokens)
 			- [Sign-up process](#sign-up-process)
-		- [Staking (Registry)](#staking-registry)
-			- [Nomination](#nomination)
+		- [Staking (Registry)](
+0xBbd26c11cecd1B122619D29B3A0709d56e26Dd2A)			- [Nomination](#nomination)
 			- [Incentivized staking](#incentivized-staking)
 	- [Appendix](#appendix)
 		- [Basic visual representation](#basic-visual-representation)
