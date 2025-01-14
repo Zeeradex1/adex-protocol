@@ -2,7 +2,7 @@
 	- [Intro](#intro)
 		- [Values](#values)
 		- [Terminology](#terminology)
-			- [Supply side](Supply side)
+		- [Supply side](Supply side)
 			- [Demand side](#Demand side)
 			- [Users](#users)
 			- [Events](#events)
